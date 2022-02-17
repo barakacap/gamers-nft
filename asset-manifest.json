@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64f1b552.chunk.css",
+    "main.js": "/static/js/main.eca7e942.chunk.js",
+    "main.js.map": "/static/js/main.eca7e942.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e365c119.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e365c119.js.map",
+    "static/js/2.dc5af389.chunk.js": "/static/js/2.dc5af389.chunk.js",
+    "static/js/2.dc5af389.chunk.js.map": "/static/js/2.dc5af389.chunk.js.map",
+    "static/js/3.2d19691d.chunk.js": "/static/js/3.2d19691d.chunk.js",
+    "static/js/3.2d19691d.chunk.js.map": "/static/js/3.2d19691d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.64f1b552.chunk.css.map": "/static/css/main.64f1b552.chunk.css.map",
+    "static/js/2.dc5af389.chunk.js.LICENSE.txt": "/static/js/2.dc5af389.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/MokotoGlitch.60b5ac8f.ttf",
+    "static/media/gamers.7f63e41a.PNG": "/static/media/gamers.7f63e41a.PNG",
+    "static/media/loading.7e43d879.svg": "/static/media/loading.7e43d879.svg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/md_gamer.ebf6dec6.PNG": "/static/media/md_gamer.ebf6dec6.PNG",
+    "static/media/sm_gamer.e83cee90.PNG": "/static/media/sm_gamer.e83cee90.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e365c119.js",
+    "static/js/2.dc5af389.chunk.js",
+    "static/css/main.64f1b552.chunk.css",
+    "static/js/main.eca7e942.chunk.js"
+  ]
+}
